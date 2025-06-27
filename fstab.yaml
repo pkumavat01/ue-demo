@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p99952-e1559416.adobeaemcloud.com/ui#/aem/sites.html/content/punamk-ue-demo?appId=aemshell/bin/franklin.delivery/pkumavat/ue-demo/main"
+    url: "https://author-p99952-e1559416.adobeaemcloud.com/ui#/aem/sites.html/content/punamk-ue-demo?appId=aemshell/bin/franklin.delivery/pkumavat01/ue-demo/main"
     type: "markup"
     suffix: ".html"
