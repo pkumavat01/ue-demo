@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/punamk-ue-demo/:/",
+    "/content/punamk-ue-demo/configuration:/.helix/config.json",
+    "/content/punamk-ue-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/punamk-ue-demo/"
   ]
 }
