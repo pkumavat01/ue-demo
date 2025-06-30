@@ -227,7 +227,7 @@
         "options": [
           {
             "name": "bold",
-            "value": "h1"
+            "value": "bold"
           },
           {
             "name": "small",
